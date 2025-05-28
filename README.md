@@ -1,5 +1,5 @@
 ## Bike Buyers Data-Analysis-Dashboard 
-This dashboard provides a visual analysis of bike buyers across Europe and aimed at identifying key characteristics of customers who are more like to purchase bikes.
+This dashboard provides a visual analysis of bike buyers across 3 Region  and aimed at identifying key characteristics of customers who are more like to purchase bikes.
 ## summary	
 1.	Region; analysis shows North America has the highest income by region in which in hand contributes to having the highest buyers of  bike purchased.
 2.	Gender; the analysis shows that the male has a higher bike purchase that the female gender
