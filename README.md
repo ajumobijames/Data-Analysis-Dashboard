@@ -5,3 +5,5 @@ This dashboard provides a visual analysis of bike buyers across Europe and aimed
 2.	Gender; the analysis shows that the male has a higher bike purchase that the female gender
 3.	Vehicle ownership; the analysis shows that those with no car owned and few cars owned were positively associated with bike purchasing. 
 4.	Marital status; analysis shows that the single purchased more bike compared to the married 
+## Conclusion 
+The dashboard summarizes key customer attributes linked to bike purchases. Providing valuable insights for business to refine thier target audience, optimize marketing campaigns and improved product positioning.
